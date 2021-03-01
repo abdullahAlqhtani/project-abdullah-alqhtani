@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section{
+    width: 25%;
+    height: 100%;
+    background-color: #eeeeee;
+    text-align: center;
+    float: left;
+}
+section img{
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 150px;
+
+}
+.intro{
+    padding: 80px 50px;
+    margin: 200px 20px
+}
+.exp{
+    padding: -50px 50px;
+    margin: 150px 20px;
+}
+.skills{
+    padding: 40px 50px 250px 50px;
+    margin: 150px 20px
+}
+#continer{
+    float: left;
+    width: 70%;
+}
+.name{
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.name h1{
+    color: #e8a317;
+    font-size: 50px;
+}
+.social{
+    float: right;
+    margin-top: 70px;
+}
+.social img{
+    width: 50px;
+    height: 50px;
+}
+#comm{
+    margin-top: 250px;
+    margin-left: 100px;
+    border-top: 2px solid grey;
+    text-align: center;
+
+}
+.com1{
+    width: 23%;
+    float: left;
+    padding: 10px;
+}
+.intro-cap{
+    padding: 100px;
+    margin: 30px 0px ;
+    margin-top: 80px;
+    background-color: rgb(250, 250, 250);
+}
+.exp-cap{
+    margin-left: 100px;
+    overflow: hidden;
+}
+.exp1{
+    width: 45%;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+ h2 span{
+    color: #e8a317;
+    padding-right: 5px;
+}
+.clr{
+    clear: both;
+}
+
+.skill-cap{
+    background-color: rgb(250, 250, 250);
+    margin-top: 150px;
+   
+}
+.skill{
+    width:40%;
+    float: left;
+    margin-left: 50px;
+    padding: 10px;
+}
+.skill1{
+    width: 100%;
+    height: 5px;
+    background-color: gray;
+    margin: 30px 10px;
+}
+.skill1 .one{
+    width:75%;
+    height: 5px;
+    background-color: #e8a317;
+}
+.skill1 .two{
+    width:90%;
+    height: 5px;
+    background-color: #e8a317;
+}
+.skill1 .three{
+    width:20%;
+    height: 5px;
+    background-color: #e8a317;
+}
+.skill .four{
+    width:20% ;
+    height: 5px;
+    background-color: #e8a317;
+}
+.skill .five{
+    width:40% ;
+    height: 5px;
+    background-color: #e8a317;
+}
+p{
+    color: gray;
+    margin-top: 10PX;
+}
+
+video{
+    width:100%;
+        height:120px;
+
+}
+.top{
+    padding-top: 200px;
+    width: 45%;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
